@@ -1,3 +1,10 @@
+# Text Editors 
 .idea
 .vscode
+
+# Dependencies
 node_modules
+
+# Gatsby Local build files
+.cache
+public
